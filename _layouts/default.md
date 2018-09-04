@@ -1,5 +1,7 @@
 {{ page.title }}
+ <body>
+    {% include navigation.html %}
+    {{ content }}
+  HTML</body>
 
-{% include navigation.md %}
-{{ content }}
 
