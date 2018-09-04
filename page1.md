@@ -1,3 +1,9 @@
+---
+my_number: 1
+layout: default
+title: Page 1
+---
+
 ## This is page 1
 
 ### How do I....
