@@ -4,6 +4,6 @@
     {% include navigation.md %}
  
     {{ content }}
- HTML</body>
+</body>
 
 
