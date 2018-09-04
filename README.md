@@ -1,4 +1,4 @@
 # BTL Web Portal
 
 ## Sue Hook
-## Sept 2018
+Sept 2018
