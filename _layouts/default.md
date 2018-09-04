@@ -1,9 +1,11 @@
 {{ page.title }}
 
- <body>
-    {% include navigation.html %}
- 
-    {{ content }}
+
+{{ content }}
+
+
+<body>
+   {% include navigation.html %}
 </body>
 
 
