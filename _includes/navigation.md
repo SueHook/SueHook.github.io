@@ -1,2 +1,4 @@
-[Home](/)
-[Page 1](/page1.md)
+[Home]()
+
+[Page 1](page1.md)
+
