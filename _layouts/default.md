@@ -2,4 +2,3 @@
 
 {{ content }}
 
- {% include _config.yml %}
